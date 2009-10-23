@@ -1,0 +1,1184 @@
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 09:11:37) [GET]
+Redirected to http://localhost:3000/
+Completed in 52ms (DB: 0) | 302 Found [http://localhost/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 09:12:50) [GET]
+Redirected to http://192.168.1.2:3000/
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 09:17:39) [GET]
+Redirected to http://192.168.1.2:3000/
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.2/redirect]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-21 10:24:15) [GET]
+
+ActionController::RoutingError (No route matches "/reset" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-21 10:24:27) [GET]
+
+ActionController::RoutingError (No route matches "/reset" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-21 10:24:29) [GET]
+
+ActionController::RoutingError (No route matches "/reset" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:24:36) [GET]
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:24:39) [GET]
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/redirect]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-21 10:24:49) [GET]
+
+ActionController::RoutingError (No route matches "/login" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:24:58) [GET]
+Redirected to http://192.168.1.2:3000/
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:24:58) [GET]
+Redirected to http://192.168.1.2:3000/
+Completed in 3ms (DB: 0) | 302 Found [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:25:00) [GET]
+Redirected to http://192.168.1.2:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:25:00) [GET]
+Redirected to http://192.168.1.2:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:25:04) [GET]
+Redirected to http://192.168.1.2:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:25:06) [GET]
+Redirected to http://192.168.1.2:3000/
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#again (for 127.0.0.1 at 2009-10-21 10:26:44) [GET]
+Redirected to http://192.168.1.2:3000/
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/again]
+
+
+Processing RedirectController#again (for 127.0.0.1 at 2009-10-21 10:26:44) [GET]
+Redirected to http://192.168.1.2:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/again]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:26:48) [GET]
+Redirected to http://192.168.1.2:3000again
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:27:02) [GET]
+Redirected to http://192.168.1.2:3000/redirect/again
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#again (for 127.0.0.1 at 2009-10-21 10:27:02) [GET]
+Redirected to http://192.168.1.2:3000/
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/again]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:27:02) [GET]
+Redirected to http://192.168.1.2:3000/redirect/again
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#again (for 127.0.0.1 at 2009-10-21 10:27:02) [GET]
+Redirected to http://192.168.1.2:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/again]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:27:04) [GET]
+Redirected to http://192.168.1.2:3000/redirect/again
+Completed in 1ms (DB: 0) | 302 Found [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#again (for 127.0.0.1 at 2009-10-21 10:27:04) [GET]
+Redirected to http://192.168.1.2:3000/
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/again]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:27:04) [GET]
+Redirected to http://192.168.1.2:3000/redirect/again
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#again (for 127.0.0.1 at 2009-10-21 10:27:04) [GET]
+Redirected to http://192.168.1.2:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/again]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:29:50) [GET]
+Redirected to http://localhost:3000/redirect/again
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/redirect]
+
+
+Processing RedirectController#again (for 127.0.0.1 at 2009-10-21 10:29:50) [GET]
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/redirect/again]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:30:03) [GET]
+Rendering redirect/index
+Completed in 71ms (View: 69, DB: 0) | 200 OK [http://localhost/redirect]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-21 10:30:12) [GET]
+
+ActionController::RoutingError (No route matches "/login" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-21 10:30:23) [GET]
+
+ActionController::RoutingError (No route matches "/login" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:30:26) [GET]
+Rendering redirect/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:31:16) [GET]
+Rendering redirect/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#redirect (for 127.0.0.1 at 2009-10-21 10:31:18) [GET]
+Redirected to http://192.168.1.2:3000again
+Completed in 1ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/redirect]
+
+
+Processing RedirectController#potato (for 127.0.0.1 at 2009-10-21 10:31:53) [GET]
+Redirected to http://192.168.1.2:3000again
+Completed in 1ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/potato]
+
+
+Processing RedirectController#again (for 127.0.0.1 at 2009-10-21 10:32:11) [GET]
+Redirected to http://192.168.1.2:3000/redirect
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/again]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:32:11) [GET]
+Rendering redirect/index
+Completed in 28ms (View: 23, DB: 0) | 200 OK [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#potato (for 127.0.0.1 at 2009-10-21 10:32:28) [GET]
+Redirected to http://192.168.1.2:3000/redirect/again
+Completed in 1ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/potato]
+
+
+Processing RedirectController#again (for 127.0.0.1 at 2009-10-21 10:32:28) [GET]
+Redirected to http://192.168.1.2:3000/redirect
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/again]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:32:28) [GET]
+Rendering redirect/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#potato (for 127.0.0.1 at 2009-10-21 10:32:28) [GET]
+Redirected to http://192.168.1.2:3000/redirect/again
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/potato]
+
+
+Processing RedirectController#again (for 127.0.0.1 at 2009-10-21 10:32:28) [GET]
+Redirected to http://192.168.1.2:3000/redirect
+Completed in 1ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/again]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:32:47) [GET]
+Rendering redirect/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#redirect (for 127.0.0.1 at 2009-10-21 10:32:50) [GET]
+Redirected to http://192.168.1.2:3000/redirect/again
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/redirect]
+
+
+Processing RedirectController#again (for 127.0.0.1 at 2009-10-21 10:32:50) [GET]
+Redirected to http://192.168.1.2:3000/redirect
+Completed in 3ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/again]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:32:50) [GET]
+Rendering redirect/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#redirect (for 127.0.0.1 at 2009-10-21 10:32:50) [GET]
+Redirected to http://192.168.1.2:3000/redirect/again
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/redirect]
+
+
+Processing RedirectController#again (for 127.0.0.1 at 2009-10-21 10:32:50) [GET]
+Redirected to http://192.168.1.2:3000/redirect
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/again]
+
+
+Processing RedirectController#redirect (for 127.0.0.1 at 2009-10-21 10:32:51) [GET]
+Redirected to http://192.168.1.2:3000/redirect/again
+Completed in 6ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/redirect]
+
+
+Processing RedirectController#again (for 127.0.0.1 at 2009-10-21 10:32:51) [GET]
+Redirected to http://192.168.1.2:3000/redirect
+Completed in 3ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/again]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:32:52) [GET]
+Rendering redirect/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#redirect (for 127.0.0.1 at 2009-10-21 10:32:52) [GET]
+Redirected to http://192.168.1.2:3000/redirect/again
+Completed in 1ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/redirect]
+
+
+Processing RedirectController#again (for 127.0.0.1 at 2009-10-21 10:32:52) [GET]
+Redirected to http://192.168.1.2:3000/redirect
+Completed in 16ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/again]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:35:21) [GET]
+Rendering redirect/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:35:25) [GET]
+Rendering redirect/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:35:27) [GET]
+Rendering redirect/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:35:43) [GET]
+Rendering redirect/index
+
+ActionView::TemplateError (undefined method `nil_class_path' for #<ActionView::Base:0x229217c>) on line #10 of app/views/redirect/index.html.erb:
+7:   </head>
+8: 	<body>
+9: 		<%= request.user_agent %>
+10: 		<% form_for :action => 'redirect' do |f| %>
+11: 			<%= f.submit %>
+12: 		<% end %>
+13: 		
+
+    app/views/redirect/index.html.erb:10
+
+Rendered rescues/_trace (37.6ms)
+Rendered rescues/_request_and_response (10.6ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:35:52) [GET]
+Rendering redirect/index
+
+ActionView::TemplateError (You have a nil object when you didn't expect it!
+The error occurred while evaluating nil.submit) on line #11 of app/views/redirect/index.html.erb:
+8: 	<body>
+9: 		<%= request.user_agent %>
+10: 		<% form_tag :action => 'redirect' do |f| %>
+11: 			<%= f.submit %>
+12: 		<% end %>
+13: 		
+14: 	</body>
+
+    app/views/redirect/index.html.erb:11
+    app/views/redirect/index.html.erb:10
+
+Rendered rescues/_trace (39.9ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:36:13) [GET]
+Rendering redirect/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#redirect (for 127.0.0.1 at 2009-10-21 10:36:15) [POST]
+  Parameters: {"commit"=>"Save changes", "authenticity_token"=>"n2d9RWsQuigdT2jjSe5RlqIyd+4SNlp56w5FoQrwylg="}
+Redirected to http://192.168.1.2:3000/redirect/again
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:36:26) [GET]
+Rendering redirect/index
+Completed in 12ms (View: 7, DB: 0) | 200 OK [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:36:59) [GET]
+Rendering redirect/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/redirect]
+
+
+Processing RedirectController#redirect (for 127.0.0.1 at 2009-10-21 10:37:01) [POST]
+  Parameters: {"commit"=>"Save changes", "authenticity_token"=>"29nHaIdh9+lcbMSBVq2Z91EqE4duZZReznU5dniq28k="}
+Redirected to http://localhost:3000/redirect
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/redirect/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:37:01) [GET]
+Rendering redirect/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:37:05) [GET]
+Rendering redirect/index
+Completed in 142ms (View: 138, DB: 0) | 200 OK [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#redirect (for 127.0.0.1 at 2009-10-21 10:37:07) [POST]
+  Parameters: {"commit"=>"Save changes", "authenticity_token"=>"n2d9RWsQuigdT2jjSe5RlqIyd+4SNlp56w5FoQrwylg="}
+Redirected to http://192.168.1.2:3000/redirect
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:39:24) [GET]
+Rendering redirect/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#redirect (for 127.0.0.1 at 2009-10-21 10:39:27) [POST]
+  Parameters: {"commit"=>"Save changes", "authenticity_token"=>"n2d9RWsQuigdT2jjSe5RlqIyd+4SNlp56w5FoQrwylg="}
+Redirected to http://192.168.1.2:3000/redirect
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.2/redirect/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:39:27) [GET]
+Rendering redirect/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://192.168.1.2/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:51:32) [GET]
+Rendering redirect/index
+Completed in 65ms (View: 64, DB: 0) | 200 OK [http://localhost/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-21 10:51:33) [GET]
+Rendering redirect/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/redirect]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-21 10:57:33) [GET]
+
+ActionController::RoutingError (No route matches "/login" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-21 10:58:56) [GET]
+
+ActionController::RoutingError (No route matches "/login" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:23:46) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 260ms (View: 258, DB: 0) | 200 OK [http://localhost/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:25:12) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:25:27) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:26:30) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+ERROR: compiling _run_erb_app47views47redirect47index46html46erb RAISED compile error
+/Users/vishu/projects/redirect/rails/app/views/redirect/index.html.erb:1: syntax error, unexpected ':', expecting ')'
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat(( link_to "login" :action => 'login' ).to_s); @output_buffer
+                                                                                                                                       ^
+Function body:           def _run_erb_app47views47redirect47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat(( link_to "login" :action => 'login' ).to_s); @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/vishu/projects/redirect/rails/app/views/redirect/index.html.erb:4:in `compile!'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:61:in `compile'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:28:in `render'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/template.rb:199:in `render_template'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/base.rb:260:in `render'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/base.rb:343:in `_render_with_layout'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/base.rb:257:in `render'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1250:in `render_for_file'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:51:in `render'
+/usr/local/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/usr/local/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/usr/local/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:51:in `render'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1326:in `default_render'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:617:in `call_filters'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/usr/local/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/usr/local/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/usr/local/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/flash.rb:146:in `perform_action'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:532:in `send'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:532:in `process_without_filters'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:606:in `process'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:391:in `process'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:386:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/routing/route_set.rb:437:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:121:in `_call'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/usr/local/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/query_cache.rb:29:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/query_cache.rb:29:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/usr/local/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/query_cache.rb:9:in `cache'
+/usr/local/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/query_cache.rb:28:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/methodoverride.rb:24:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/params_parser.rb:15:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/session/cookie_store.rb:93:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/failsafe.rb:26:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `synchronize'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:114:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/reloader.rb:34:in `run'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:108:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rails-2.3.4/lib/rails/rack/static.rb:31:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:46:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `each'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rails-2.3.4/lib/rails/rack/log_tailer.rb:17:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/content_length.rb:13:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/chunked.rb:15:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:61:in `process'
+/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:34:in `run'
+/usr/local/lib/ruby/gems/1.8/gems/rails-2.3.4/lib/commands/server.rb:111
+/usr/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+./script/server:3
+
+ActionView::TemplateError (compile error
+/Users/vishu/projects/redirect/rails/app/views/redirect/index.html.erb:1: syntax error, unexpected ':', expecting ')'
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat(( link_to "login" :action => 'login' ).to_s); @output_buffer
+                                                                                                                                       ^) on line #1 of app/views/redirect/index.html.erb:
+1: <%= link_to "login" :action => 'login' %>
+
+    app/views/redirect/index.html.erb:4:in `compile!'
+
+Rendered rescues/_trace (48.1ms)
+Rendered rescues/_request_and_response (12.5ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:26:40) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/redirect]
+
+
+Processing RedirectController#login (for 127.0.0.1 at 2009-10-23 08:26:43) [GET]
+Rendering template within layouts/application
+Rendering redirect/login
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://localhost/redirect/login]
+
+
+Processing RedirectController#redirect (for 127.0.0.1 at 2009-10-23 08:26:44) [POST]
+  Parameters: {"commit"=>"Save changes", "authenticity_token"=>"cFVpRGasNQS454mPjv7FJ8ncz73NtzKdFyOPcWNaWOs="}
+Redirected to http://localhost:4000/redirect
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/redirect/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:26:44) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/redirect]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 08:27:32) [GET]
+
+SyntaxError (/Users/vishu/projects/redirect/rails/app/controllers/redirect_controller.rb:3: syntax error, unexpected tIDENTIFIER, expecting kTHEN or ':' or '\n' or ';'
+    unless session[:logged_in] redirect_to active
+                                          ^):
+  
+
+Rendered rescues/_trace (127.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 08:30:31) [GET]
+
+SyntaxError (/Users/vishu/projects/redirect/rails/app/controllers/redirect_controller.rb:3: syntax error, unexpected tIDENTIFIER, expecting kTHEN or ':' or '\n' or ';'
+      unless session[:logged_in] redirect_to 'active'("args")
+                                            ^
+/Users/vishu/projects/redirect/rails/app/controllers/redirect_controller.rb:3: syntax error, unexpected '(', expecting kEND
+      unless session[:logged_in] redirect_to 'active'("args")
+                                                      ^
+/Users/vishu/projects/redirect/rails/app/controllers/redirect_controller.rb:3: syntax error, unexpected ')', expecting kEND
+/Users/vishu/projects/redirect/rails/app/controllers/redirect_controller.rb:19: syntax error, unexpected $end, expecting kEND):
+  
+
+Rendered rescues/_trace (37.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 08:30:42) [GET]
+
+SyntaxError (/Users/vishu/projects/redirect/rails/app/controllers/redirect_controller.rb:3: syntax error, unexpected tIDENTIFIER, expecting kTHEN or ':' or '\n' or ';'
+      unless session[:logged_in] redirect_to :controller => 'active'
+                                            ^
+/Users/vishu/projects/redirect/rails/app/controllers/redirect_controller.rb:19: syntax error, unexpected kEND, expecting $end):
+  
+
+Rendered rescues/_trace (38.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 08:30:48) [GET]
+
+SyntaxError (/Users/vishu/projects/redirect/rails/app/controllers/redirect_controller.rb:3: syntax error, unexpected tIDENTIFIER, expecting kTHEN or ':' or '\n' or ';'
+      unless session[:logged_in] redirect_to (:controller => 'active')
+                                            ^
+/Users/vishu/projects/redirect/rails/app/controllers/redirect_controller.rb:19: syntax error, unexpected kEND, expecting $end):
+  
+
+Rendered rescues/_trace (136.6ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 08:31:02) [GET]
+
+SyntaxError (/Users/vishu/projects/redirect/rails/app/controllers/redirect_controller.rb:18: syntax error, unexpected kEND, expecting $end):
+  
+
+Rendered rescues/_trace (45.5ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 08:31:11) [GET]
+
+SyntaxError (/Users/vishu/projects/redirect/rails/app/controllers/redirect_controller.rb:18: syntax error, unexpected kEND, expecting $end):
+  
+
+Rendered rescues/_trace (43.8ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:31:21) [GET]
+Redirected to http://localhost:4000/active
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/redirect]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 08:31:21) [GET]
+
+ActionController::RoutingError (No route matches "/active" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 08:31:33) [GET]
+
+ActionController::RoutingError (No route matches "/active" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 08:31:34) [GET]
+
+ActionController::RoutingError (No route matches "/active" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:31:39) [GET]
+Redirected to http://localhost:4000/redirect/active
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/redirect]
+
+
+Processing RedirectController#active (for 127.0.0.1 at 2009-10-23 08:31:39) [GET]
+Rendering template within layouts/application
+Rendering redirect/active
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/redirect/active]
+
+
+Processing ApplicationController#active (for 127.0.0.1 at 2009-10-23 08:31:45) [GET]
+
+SyntaxError (/Users/vishu/projects/redirect/rails/app/controllers/redirect_controller.rb:16: syntax error, unexpected $end, expecting kEND):
+  
+
+Rendered rescues/_trace (39.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing RedirectController#active (for 127.0.0.1 at 2009-10-23 08:32:00) [GET]
+Rendering template within layouts/application
+Rendering redirect/active
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/redirect/active]
+
+
+Processing RedirectController#active (for 127.0.0.1 at 2009-10-23 08:32:11) [GET]
+Rendering template within layouts/application
+Rendering redirect/active
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/redirect/active]
+
+
+Processing RedirectController#active (for 127.0.0.1 at 2009-10-23 08:32:12) [GET]
+Rendering template within layouts/application
+Rendering redirect/active
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/redirect/active]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:32:14) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/redirect/]
+
+
+Processing RedirectController#login (for 127.0.0.1 at 2009-10-23 08:32:17) [GET]
+Rendering template within layouts/application
+Rendering redirect/login
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/redirect/login]
+
+
+Processing RedirectController#redirect (for 127.0.0.1 at 2009-10-23 08:32:18) [POST]
+  Parameters: {"commit"=>"Save changes", "authenticity_token"=>"cFVpRGasNQS454mPjv7FJ8ncz73NtzKdFyOPcWNaWOs="}
+Redirected to http://localhost:4000/redirect
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/redirect/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:32:18) [GET]
+Redirected to http://localhost:4000/redirect/active
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/redirect]
+
+
+Processing RedirectController#active (for 127.0.0.1 at 2009-10-23 08:32:18) [GET]
+Rendering template within layouts/application
+Rendering redirect/active
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/redirect/active]
+
+
+Processing RedirectController#active (for 127.0.0.1 at 2009-10-23 08:33:28) [GET]
+Rendering template within layouts/application
+Rendering redirect/active
+ERROR: compiling _run_erb_app47views47redirect47active46html46erb RAISED compile error
+/Users/vishu/projects/redirect/rails/app/views/redirect/active.html.erb:1: syntax error, unexpected tIDENTIFIER, expecting ')'
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "you're in "; @output_buffer.concat(( link_to "log_out" action => 'log_out' ).to_s); @output_buffer
+                                                                                                                                                                                  ^
+Function body:           def _run_erb_app47views47redirect47active46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "you're in "; @output_buffer.concat(( link_to "log_out" action => 'log_out' ).to_s); @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/vishu/projects/redirect/rails/app/views/redirect/active.html.erb:4:in `compile!'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:61:in `compile'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:28:in `render'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/template.rb:199:in `render_template'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/base.rb:260:in `render'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/base.rb:343:in `_render_with_layout'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/base.rb:257:in `render'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1250:in `render_for_file'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:51:in `render'
+/usr/local/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/usr/local/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/usr/local/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:51:in `render'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1326:in `default_render'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:617:in `call_filters'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/usr/local/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/usr/local/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/usr/local/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/flash.rb:146:in `perform_action'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:532:in `send'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:532:in `process_without_filters'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:606:in `process'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:391:in `process'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:386:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/routing/route_set.rb:437:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:121:in `_call'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/usr/local/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/query_cache.rb:29:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/query_cache.rb:29:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/usr/local/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/query_cache.rb:9:in `cache'
+/usr/local/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/query_cache.rb:28:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/methodoverride.rb:24:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/params_parser.rb:15:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/session/cookie_store.rb:93:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/failsafe.rb:26:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `synchronize'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:114:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/reloader.rb:34:in `run'
+/usr/local/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:108:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rails-2.3.4/lib/rails/rack/static.rb:31:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:46:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `each'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rails-2.3.4/lib/rails/rack/log_tailer.rb:17:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/content_length.rb:13:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/chunked.rb:15:in `call'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:61:in `process'
+/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:34:in `run'
+/usr/local/lib/ruby/gems/1.8/gems/rails-2.3.4/lib/commands/server.rb:111
+/usr/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+./script/server:3
+
+ActionView::TemplateError (compile error
+/Users/vishu/projects/redirect/rails/app/views/redirect/active.html.erb:1: syntax error, unexpected tIDENTIFIER, expecting ')'
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "you're in "; @output_buffer.concat(( link_to "log_out" action => 'log_out' ).to_s); @output_buffer
+                                                                                                                                                                                  ^) on line #1 of app/views/redirect/active.html.erb:
+1: you're in <%= link_to "log_out" action => 'log_out' %>
+
+    app/views/redirect/active.html.erb:4:in `compile!'
+
+Rendered rescues/_trace (50.3ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing RedirectController#active (for 127.0.0.1 at 2009-10-23 08:33:50) [GET]
+Rendering template within layouts/application
+Rendering redirect/active
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/redirect/active]
+
+
+Processing RedirectController#active (for 127.0.0.1 at 2009-10-23 08:34:00) [GET]
+Rendering template within layouts/application
+Rendering redirect/active
+Completed in 96ms (View: 94, DB: 0) | 200 OK [http://localhost/redirect/active]
+
+
+Processing RedirectController#logout (for 127.0.0.1 at 2009-10-23 08:34:01) [GET]
+Redirected to http://localhost:4000/redirect
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/redirect/logout]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:34:02) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/redirect]
+
+
+Processing RedirectController#login (for 127.0.0.1 at 2009-10-23 08:34:04) [GET]
+Rendering template within layouts/application
+Rendering redirect/login
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/redirect/login]
+
+
+Processing RedirectController#redirect (for 127.0.0.1 at 2009-10-23 08:34:04) [POST]
+  Parameters: {"commit"=>"Save changes", "authenticity_token"=>"cFVpRGasNQS454mPjv7FJ8ncz73NtzKdFyOPcWNaWOs="}
+Redirected to http://localhost:4000/redirect
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/redirect/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:34:04) [GET]
+Redirected to http://localhost:4000/redirect/active
+Completed in 4ms (DB: 0) | 302 Found [http://localhost/redirect]
+
+
+Processing RedirectController#active (for 127.0.0.1 at 2009-10-23 08:34:04) [GET]
+Rendering template within layouts/application
+Rendering redirect/active
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/redirect/active]
+
+
+Processing RedirectController#logout (for 127.0.0.1 at 2009-10-23 08:34:07) [GET]
+Redirected to http://localhost:4000/redirect
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/redirect/logout]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:34:07) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:34:37) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:34:54) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/redirect]
+
+
+Processing RedirectController#login (for 127.0.0.1 at 2009-10-23 08:34:56) [GET]
+Rendering template within layouts/application
+Rendering redirect/login
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/redirect/login]
+
+
+Processing RedirectController#redirect (for 127.0.0.1 at 2009-10-23 08:34:57) [POST]
+  Parameters: {"commit"=>"Save changes", "authenticity_token"=>"cFVpRGasNQS454mPjv7FJ8ncz73NtzKdFyOPcWNaWOs="}
+Redirected to http://localhost:4000/redirect
+Completed in 6ms (DB: 0) | 302 Found [http://localhost/redirect/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:34:57) [GET]
+Redirected to http://localhost:4000/redirect/active
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/redirect]
+
+
+Processing RedirectController#active (for 127.0.0.1 at 2009-10-23 08:34:57) [GET]
+Rendering template within layouts/application
+Rendering redirect/active
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/redirect/active]
+
+
+Processing RedirectController#logout (for 127.0.0.1 at 2009-10-23 08:34:59) [GET]
+Redirected to http://localhost:4000/redirect
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/redirect/logout]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:34:59) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:35:19) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/redirect]
+
+
+Processing RedirectController#login (for 127.0.0.1 at 2009-10-23 08:35:21) [GET]
+Rendering template within layouts/application
+Rendering redirect/login
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/redirect/login]
+
+
+Processing RedirectController#redirect (for 127.0.0.1 at 2009-10-23 08:35:22) [POST]
+  Parameters: {"commit"=>"Save changes", "authenticity_token"=>"cFVpRGasNQS454mPjv7FJ8ncz73NtzKdFyOPcWNaWOs="}
+Redirected to http://localhost:4000/redirect
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/redirect/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:35:22) [GET]
+Redirected to http://localhost:4000/redirect/active
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/redirect]
+
+
+Processing RedirectController#active (for 127.0.0.1 at 2009-10-23 08:35:22) [GET]
+Rendering template within layouts/application
+Rendering redirect/active
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/redirect/active]
+
+
+Processing RedirectController#logout (for 127.0.0.1 at 2009-10-23 08:35:23) [GET]
+Redirected to http://localhost:4000/redirect
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/redirect/logout]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:35:23) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:35:32) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/redirect]
+
+
+Processing RedirectController#login (for 127.0.0.1 at 2009-10-23 08:35:34) [GET]
+Rendering template within layouts/application
+Rendering redirect/login
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/redirect/login]
+
+
+Processing RedirectController#redirect (for 127.0.0.1 at 2009-10-23 08:35:34) [POST]
+  Parameters: {"commit"=>"login", "authenticity_token"=>"cFVpRGasNQS454mPjv7FJ8ncz73NtzKdFyOPcWNaWOs="}
+Redirected to http://localhost:4000/redirect
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/redirect/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:35:34) [GET]
+Redirected to http://localhost:4000/redirect/active
+Completed in 2ms (DB: 0) | 302 Found [http://localhost/redirect]
+
+
+Processing RedirectController#active (for 127.0.0.1 at 2009-10-23 08:35:34) [GET]
+Rendering template within layouts/application
+Rendering redirect/active
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/redirect/active]
+
+
+Processing RedirectController#logout (for 127.0.0.1 at 2009-10-23 08:35:36) [GET]
+Redirected to http://localhost:4000/redirect
+Completed in 3ms (DB: 0) | 302 Found [http://localhost/redirect/logout]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:35:36) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:36:01) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://192.168.1.4/redirect]
+
+
+Processing RedirectController#login (for 127.0.0.1 at 2009-10-23 08:36:12) [GET]
+Rendering template within layouts/application
+Rendering redirect/login
+Completed in 17ms (View: 15, DB: 0) | 200 OK [http://192.168.1.4/redirect/login]
+
+
+Processing RedirectController#redirect (for 127.0.0.1 at 2009-10-23 08:36:13) [POST]
+  Parameters: {"commit"=>"login", "authenticity_token"=>"Kctquw6M3DYiuszMGAyWNXS9jxbYIqhf+w5UGs7vSFU="}
+Redirected to http://192.168.1.4:4000/redirect
+Completed in 8ms (DB: 0) | 302 Found [http://192.168.1.4/redirect/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:36:13) [GET]
+Redirected to http://192.168.1.4:4000/redirect/active
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.4/redirect]
+
+
+Processing RedirectController#active (for 127.0.0.1 at 2009-10-23 08:36:13) [GET]
+Rendering template within layouts/application
+Rendering redirect/active
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.4/redirect/active]
+
+
+Processing RedirectController#logout (for 127.0.0.1 at 2009-10-23 08:36:15) [GET]
+Redirected to http://192.168.1.4:4000/redirect
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.4/redirect/logout]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:36:15) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://192.168.1.4/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 08:36:38) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 32ms (View: 19, DB: 0) | 200 OK [http://192.168.1.4/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 09:00:43) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://192.168.1.4/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 09:00:44) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://192.168.1.4/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 09:00:48) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.4/redirect]
+
+
+Processing RedirectController#login (for 127.0.0.1 at 2009-10-23 09:01:09) [GET]
+Rendering template within layouts/application
+Rendering redirect/login
+Completed in 16ms (View: 3, DB: 0) | 200 OK [http://192.168.1.4/redirect/login]
+
+
+Processing RedirectController#login (for 127.0.0.1 at 2009-10-23 09:01:10) [GET]
+Rendering template within layouts/application
+Rendering redirect/login
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://192.168.1.4/redirect/login]
+
+
+Processing RedirectController#redirect (for 127.0.0.1 at 2009-10-23 09:01:13) [POST]
+  Parameters: {"commit"=>"login", "authenticity_token"=>"Kctquw6M3DYiuszMGAyWNXS9jxbYIqhf+w5UGs7vSFU="}
+Redirected to http://192.168.1.4:4000/redirect
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.4/redirect/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 09:01:13) [GET]
+Redirected to http://192.168.1.4:4000/redirect/active
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.4/redirect]
+
+
+Processing RedirectController#active (for 127.0.0.1 at 2009-10-23 09:01:13) [GET]
+Rendering template within layouts/application
+Rendering redirect/active
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.4/redirect/active]
+
+
+Processing RedirectController#logout (for 127.0.0.1 at 2009-10-23 09:01:16) [GET]
+Redirected to http://192.168.1.4:4000/redirect
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.4/redirect/logout]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 09:01:16) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.4/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 09:01:35) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.4/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 09:01:44) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.4/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 09:02:10) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.4/redirect]
+
+
+Processing RedirectController#login (for 127.0.0.1 at 2009-10-23 09:02:15) [GET]
+Rendering template within layouts/application
+Rendering redirect/login
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://192.168.1.4/redirect/login]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 09:02:19) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://192.168.1.4/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 09:03:07) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 17ms (View: 15, DB: 0) | 200 OK [http://192.168.1.4/redirect]
+
+
+Processing RedirectController#index (for 127.0.0.1 at 2009-10-23 09:03:15) [GET]
+Rendering template within layouts/application
+Rendering redirect/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.4/redirect]
+
+
+Processing RedirectController#login (for 127.0.0.1 at 2009-10-23 09:03:18) [GET]
+Rendering template within layouts/application
+Rendering redirect/login
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://192.168.1.4/redirect/login]
+
+
+Processing RedirectController#login (for 127.0.0.1 at 2009-10-23 09:03:18) [GET]
+Rendering template within layouts/application
+Rendering redirect/login
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://192.168.1.4/redirect/login]
+
+
+Processing RedirectController#redirect (for 127.0.0.1 at 2009-10-23 09:03:19) [POST]
+  Parameters: {"commit"=>"login", "authenticity_token"=>"hfr6CfojnBH6FwhDkxbI1nV+mCmXntLuVjtrrBJkoyQ="}
+Redirected to http://192.168.1.4:4000/redirect
+Completed in 2ms (DB: 0) | 302 Found [http://192.168.1.4/redirect/redirect]
